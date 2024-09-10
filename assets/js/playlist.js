@@ -117,7 +117,7 @@ $(document).ready(function(){
 	}, [
 		{
 			title:" Nike ",
-			mp3:"assests/mp3/nike.mp3",
+			mp3:"assets/mp3/nike.mp3",
 
 		},
 			
