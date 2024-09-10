@@ -101,7 +101,7 @@ $(document).ready(function(){
 			$(this).jPlayer("pauseOthers");
 		},
 		swfPath: "../js",
-		supplied: "m4a, oga",
+		supplied: "m4a, oga, mp3",
 		cssSelectorAncestor: "#jp_container_5",
 		wmode: "window",
 		globalVolume: true,
@@ -116,9 +116,9 @@ $(document).ready(function(){
 		cssSelectorAncestor: "#jp_container_5"
 	}, [
 		{
-			title:"Cro Magnon Man",
-			mp3:"https://www.jplayer.org/audio/mp3/TSP-01-Cro_magnon_man.mp3",
-			oga:"https://www.jplayer.org/audio/ogg/TSP-01-Cro_magnon_man.ogg"
+			title:" Nike ",
+			mp3:"assests/mp3/nike.mp3",
+
 		},
 			
 	], {
