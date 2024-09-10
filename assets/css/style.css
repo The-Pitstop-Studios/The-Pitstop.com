@@ -246,7 +246,7 @@ header nav ul ul {
 	top: 100%;
 	left: 0;
 	width: 200px;
-	background-color: #ef016f;
+	background-color: #ff0000;
 	opacity: 0;
 	visibility: hidden;
 	transition: all 0.4s ease-in-out;
@@ -283,7 +283,7 @@ header nav ul li:before {
 	transform: translateY(-50%);
 	width: 100%;
 	height: 2px;
-	background-color: #ef016f;
+	background-color: #ff0000;
 	opacity: 0;
 	visibility: hidden;
 	transition: all 0.4s ease-in-out;
@@ -302,7 +302,7 @@ header nav ul li a {
 	font-family: 'Bakbak One', cursive;
 }
 header nav > ul > li > a:hover {
-	color: #ef016f;
+	color: #ff0000;
 }
 .social-links.hd-v {
 	margin-left: 18px;
@@ -477,7 +477,7 @@ header.sticky .social-links.hd-v li a:hover {
 	left: 50%;
 	width: 87px;
 	height: 3px;
-	background-color: #ef016f;
+	background-color: #ff0000;
 	transform: translateX(-50%);
 }
 
@@ -580,7 +580,7 @@ a:hover {
 	color: #f4f0f9;
 	font-size: 25px;
 	font-weight: 700;
-	border-bottom: 1px solid #ef016f;
+	border-bottom: 1px solid #ff0000;
 	text-transform: uppercase;
 	padding-bottom: 5px;
 }
@@ -609,7 +609,7 @@ a:hover {
 	left: 0;
 	width: 87px;
 	height: 3px;
-	background-color: #ef016f;
+	background-color: #ff0000;
 }
 
 .about-text {
@@ -887,7 +887,7 @@ a:hover {
 	font-size: 18px;
 }
 button.theme-btn {
-	background-color: #ef016f;
+	background-color: #ff0000;
 	color: #fff;
 	border:0;
 	padding: 0 59px;
@@ -994,7 +994,7 @@ header.sticky .menu-btn > span {
 	opacity: 0;
 	visibility: hidden;
 	transition: all 0.4s ease-in-out;
-	background-color: #ef016f;
+	background-color: #ff0000;
 }
 .responsive-mobile-menu.active {
 	opacity: 1;
@@ -1073,7 +1073,7 @@ div#html5-image {
 
 .alb-title > span {
 	display: block;
-	color: #ef016f;
+	color: #ff0000;
 	font-size: 17px;
 	font-weight: 500;
 	margin-bottom: 2px;
@@ -1204,9 +1204,9 @@ div#html5-image {
 }
 .jp-playlist li.jp-playlist-current:before {
 	content: '\f04c';
-	color: #ef016f;
+	color: #ff0000;
 	font-size: 8px;
-	border-color: #ef016f;
+	border-color: #ff0000;
 	padding-left: 0;
 }
 .jp-details, .jp-playlist {
@@ -1234,7 +1234,7 @@ span.jp-free-media {
 	display: none;
 }
 a.jp-playlist-item.jp-playlist-current {
-	color: #ef016f;
+	color: #ff0000;
 }
 .jp-interface {
 	background-color: transparent;
@@ -1291,7 +1291,7 @@ a.jp-playlist-item.jp-playlist-current {
 	line-height: 38px !important;
 	text-align: center;
 	border-radius: 50% !important;
-	background:#f8386b !important;
+	background:#ff0000 !important;
 	display: inline-block;
 	font-size: inherit !important;
 }
@@ -1415,7 +1415,7 @@ a.jp-playlist-item.jp-playlist-current {
 	border-radius: 30px;
 }
 .bt-btns li a.apple {
-	background-color: #f8386b;
+	background-color: #ff0000;
 	color: #fff;
 	border-color: transparent;
 }
@@ -1426,7 +1426,7 @@ a.jp-playlist-item.jp-playlist-current {
 	margin-right: 5px;
 }
 .bt-btns li a.spotify:hover {
-	background-color: #f8386b;
+	background-color: #ff0000;
 	border-color: transparent;
 	color: #fff;
 }
@@ -1724,7 +1724,7 @@ a.jp-playlist-item.jp-playlist-current {
 	left: 0;
 	width: 100%;
 	height: 2px;
-	background-color: #ef016f;
+	background-color: #ff0000;
 	opacity: 0;
 	visibility: hidden;
 	transition: all 0.4s ease-in-out;
@@ -1981,7 +1981,7 @@ header.sticky .logo > h2 {
 	height: 32px;
 	width: 32px;
 	clip: rect(0, 32px, 32px, 16px);
-	border: 3px solid #ef016f;
+	border: 3px solid #ff0000;
 	border-radius: 50%;
 	-webkit-animation: loader-1-3 1.2s cubic-bezier(0.770, 0.000, 0.175, 1.000) infinite;
 	        animation: loader-1-3 1.2s cubic-bezier(0.770, 0.000, 0.175, 1.000) infinite;
@@ -2036,7 +2036,7 @@ header.sticky .logo > h2 {
 	width: 87px;
 	height: 3px;
 	display: inline-block;
-	background-color: #ef016f;
+	background-color: #ff0000;
 }
 
 #slide-6-layer-1,
@@ -2279,7 +2279,7 @@ header.sticky .logo > h2 {
 .meta > span {
 	display: inline-block;
 	text-transform: uppercase;
-	color: #ef016f;
+	color: #ff0000;
 	font-size: 14px;
 	font-weight: 700;
 }
@@ -2347,7 +2347,7 @@ header.sticky .logo > h2 {
 	height: 50px;
 	padding: 0 40px;
 	font-weight: 700;
-	background-color: #ef016f;
+	background-color: #ff0000;
 	color: #fff;
 	display: inline-block;
 	border-radius: 30px;
@@ -2536,7 +2536,7 @@ header.sticky .logo > h2 {
 	transition: all 0.3s ease;
 }
 .form-submit button:hover {
-	background-color: #ef016f;
+	background-color: #ff0000;
 }
 
 /* BLOG SIDEBAR */
@@ -2636,7 +2636,7 @@ header.sticky .logo > h2 {
 }
 .wd-info > span {
 	display: block;
-	color: #ef016f;
+	color: #ff0000;
 	font-size: 14px;
 	margin-bottom: 5px;
 	font-weight: 700;
@@ -3238,7 +3238,7 @@ header.sticky .logo > h2 {
 	background-color: #f559a4;
 }
 .slick-dots li.slick-active button {
-	background-color: #ef016f;
+	background-color: #ff0000;
 }
 
 
@@ -3288,7 +3288,7 @@ header.sticky .logo > h2 {
 	color: #ffffff;
 	font-size: 15px;
 	font-weight: 700;
-	background:linear-gradient(to left, #f8386b, #bd04db);
+	background:linear-gradient(to left, #ff0000, #b60302);
 	height: 52px;
 	line-height: 52px;
 	border-radius: 30px;
@@ -3309,7 +3309,7 @@ header.sticky .logo > h2 {
 	line-height: 50px;
 }
 .btn-lnk.v2:hover {
-	background:linear-gradient(to left, #f8386b, #bd04db);
+	background:linear-gradient(to left, #ff0000, #b60302);
 	border-color: transparent;
 }
 
@@ -3416,7 +3416,7 @@ header.sticky .logo > h2 {
 	top: 0;
 	left: 0;
 	width: 100%;
-	background:linear-gradient(to left, #f8386b, #bd04db);
+	background:linear-gradient(to left, #ff0000, #b60302);
 	height: 100%;
 	z-index: -1;
 	transition: all 0.6s ease;
@@ -3426,7 +3426,7 @@ header.sticky .logo > h2 {
 	background:#fff;
 }
 .theme-btn:hover {
-	color: #f8386b;
+	color: #ff0000;
 }
 .theme-btn2 {
 	display: inline-block;
@@ -3468,11 +3468,11 @@ header.sticky .logo > h2 {
 	left: 0;
 	width: 87px;
 	height: 14px;
-	background:linear-gradient(to left, #f8386b, #bd04db);
+	background:linear-gradient(to left, #ff0000, #b60302);
 }
 .about-us > span {
 	display: block;
-	color: #ef016f;
+	color: #ff0000;
 	font-size: 17px;
 	line-height: 25px;
 	font-family: 'Michroma';
@@ -3563,7 +3563,7 @@ header.sticky .logo > h2 {
 	left: 50%;
 	width: 87px;
 	height: 14px;
-	background:linear-gradient(to left, #f8386b, #bd04db);
+	background:linear-gradient(to left, #ff0000, #b60302);
 	transform: translateX(-50%);
 }
 .title-sec p {
@@ -3639,7 +3639,7 @@ header.sticky .logo > h2 {
 	color: #b5b2b2;
 }
 .reel-social li a:hover {
-	color: #ef016f;
+	color: #ff0000;
 }
 .reel-social li:last-child {
 	margin-right: 0;
@@ -3664,7 +3664,7 @@ header.sticky .logo > h2 {
 	max-width: 100%;
 }
 .partner-logo:hover {
-	background:linear-gradient(to left, #f8386b, #bd04db);
+	background:linear-gradient(to left, #ff0000, #b60302);
 	border-color: transparent;
 }
 
@@ -3697,7 +3697,7 @@ header.sticky .logo > h2 {
 	right: -3px;
 	width: 2px;
 	height: calc(100% - 6px);
-	background-color: #bd04db;
+	background-color: #b60302;
 	transform: translateY(-50%);
 }
 
@@ -3709,7 +3709,7 @@ header.sticky .logo > h2 {
 	padding: 93px 0 114px;
 }
 .nz-text > h2 {
-	color: #ef016f;
+	color: #ff0000;
 	font-size: 35px;
 	text-transform: capitalize;
 	margin-bottom: 10px;
@@ -3749,7 +3749,7 @@ header.sticky .logo > h2 {
 	right: 0;
 	color: #ffffff;
 	font-size: 19px;
-	background:linear-gradient(to right, #bd04db, #ff0066);
+	background:linear-gradient(to right, #b60302, #ff0066);
 	padding: 0 55px;
 	border-radius: 0 50px 50px 0;
 	border:0;
@@ -3760,7 +3760,7 @@ header.sticky .logo > h2 {
 /* FOOTER */
 
 footer {
-	background-color: #ef016f;
+	background-color: #b60302;
 	padding: 44px 0 49px;
 }
 .footer-content {
@@ -4351,7 +4351,7 @@ div.jp-type-playlist div.jp-playlist li.jp-playlist-current .jp-playlist-item:be
 .page-link:focus, 
 .page-link:hover,
 .page-link.active{
-	background-color: #f8386b;
+	background-color: #ff0000;
 	color: #fff;
 }
 
@@ -4435,7 +4435,7 @@ div.jp-type-playlist div.jp-playlist li.jp-playlist-current .jp-playlist-item:be
 	margin-bottom: 42px;
 }
 .contact-form form button {
-	color: #f8386b;
+	color: #ff0000;
 	font-size: 14px;
 	font-weight: 700;
 	text-transform: uppercase;
@@ -4456,7 +4456,7 @@ div.jp-type-playlist div.jp-playlist li.jp-playlist-current .jp-playlist-item:be
     left: -1px;
     width: calc(100% + 2px);
     height: calc(100% + 3px);
-	background:linear-gradient(to left, #f8386b, #bd04db);
+	background:linear-gradient(to left, #ff0000, #b60302);
 	color: #fff;
 	border:0;
 	z-index: -1;
@@ -4519,7 +4519,7 @@ div.jp-type-playlist div.jp-playlist li.jp-playlist-current .jp-playlist-item:be
 	justify-content: center;
 	align-items: center;
 	flex-wrap: wrap;
-	background:linear-gradient(to top, #f8386b, #bd04db);
+	background:linear-gradient(to top, #ff0000, #b60302);
 	border-radius: 5px 0 0 5px;
 	text-align: center;
 }
@@ -4552,7 +4552,7 @@ div.jp-type-playlist div.jp-playlist li.jp-playlist-current .jp-playlist-item:be
 }
 .show-card-info > span {
 	display: block;
-	color: #bd04db;
+	color: #b60302;
 	font-size: 16px;
 	font-family: 'IBM Plex Sans', sans-serif;
 	font-weight: 500;
@@ -4596,7 +4596,7 @@ div.jp-type-playlist div.jp-playlist li.jp-playlist-current .jp-playlist-item:be
 	margin-top: -2px;
 }
 .show-location-info li span.time {
-	color: #bd04db;
+	color: #b60302;
 }
 .buy-ticket {
 	margin-left: 115px;
@@ -4619,7 +4619,7 @@ div.jp-type-playlist div.jp-playlist li.jp-playlist-current .jp-playlist-item:be
 	left: 0;
 	width: 100%;
 	height: 100%;
-	background:linear-gradient(to left, #f8386b, #bd04db);
+	background:linear-gradient(to left, #ff0000, #b60302);
 	z-index: -1;
 	opacity: 0;
 	visibility: hidden;
@@ -4653,14 +4653,14 @@ div.jp-type-playlist div.jp-playlist li.jp-playlist-current .jp-playlist-item:be
 	text-align: center;
 	transition: all 0.3s ease;
 }
-.price-column h3 {
+.price-column h2 {
 	color: #282525;
 	font-size: 35px;
 	font-weight: 500;
 	margin-bottom: 3px;
     font-family: 'Roboto', sans-serif;
 }
-.price-column h2 {
+.price-column h3 {
 	color: #282525;
 	font-size: 36px;
 	font-weight: 700;
@@ -4708,7 +4708,7 @@ div.jp-type-playlist div.jp-playlist li.jp-playlist-current .jp-playlist-item:be
 	color: #fff;
 }
 .price-column:hover {
-	background-color: #f23377;
+	background-color: #b60302;
 }
 
 .has-5-columns .col-lg-2 {
@@ -4721,3 +4721,7 @@ div.jp-type-playlist div.jp-playlist li.jp-playlist-current .jp-playlist-item:be
     visibility:inherit !important;
     opacity: 1 !important;
     }
+
+	.red-bg{
+		background-color: #b60302;
+	}
