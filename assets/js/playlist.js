@@ -120,6 +120,11 @@ $(document).ready(function(){
 			mp3:"assets/mp3/nike.mp3",
 
 		},
+		{
+			title:" Bounce ",
+			mp3:"assets/mp3/Nyc.mp3",
+
+		},
 			
 	], {
 		swfPath: "../../dist/jplayer",
