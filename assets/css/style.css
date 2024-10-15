@@ -4725,3 +4725,11 @@ div.jp-type-playlist div.jp-playlist li.jp-playlist-current .jp-playlist-item:be
 	.red-bg{
 		background-color: #b60302;
 	}
+
+	.jl-show img{
+		height: 457px; object-fit: cover;
+	} 
+
+	.jl-show{
+		margin-bottom: 20PX;
+	}
