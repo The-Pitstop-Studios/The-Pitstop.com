@@ -32,7 +32,7 @@ $(document).ready(function(){
 			$(this).jPlayer("pauseOthers");
 		},
 		swfPath: "../js",
-		supplied: "m4a, oga",
+		supplied: "m4a, mp3",
 		cssSelectorAncestor: "#jp_container_1",
 		wmode: "window",
 		globalVolume: true,
